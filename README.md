@@ -59,7 +59,7 @@ npm run dev
 
 ### Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/homepage.png)
 _Displays all notes in a responsive grid layout._
 
 ### Create Note Page
