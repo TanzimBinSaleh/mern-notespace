@@ -2,8 +2,6 @@
 
 A modern, full-stack MERN notes app for creating, editing, and managing your notes with a beautiful UI and robust backend.
 
-**🌐 Deployed on [Render](https://mern-notespace.onrender.com)**
-
 ---
 
 ## 🚀 Features
@@ -54,3 +52,24 @@ cd frontend
 npm install
 npm run dev
 ```
+
+---
+
+## 📸 Screenshots
+
+### Home Page
+
+![Home Page](screenshots/home.png)
+_Displays all notes in a responsive grid layout._
+
+### Create Note Page
+
+![Create Note Page](screenshots/create-note.png)
+_Form for adding a new note with title and content fields._
+
+### Note Details Page
+
+![Note Details Page](screenshots/note-details.png)
+_View, edit, or delete a specific note._
+
+---
