@@ -2,6 +2,8 @@
 
 A modern, full-stack MERN notes app for creating, editing, and managing your notes with a beautiful UI and robust backend.
 
+**🌐 Deployed on [Render](https://mern-notespace.onrender.com)**
+
 ---
 
 ## 🚀 Features
